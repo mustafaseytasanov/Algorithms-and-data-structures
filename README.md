@@ -1,1 +1,1 @@
-# Algorithms-and-data-structures
+# Подготовка к алгоритмическому собеседованию.
